@@ -1,4 +1,11 @@
-project folder is 'main'.
-working on project level static, template folder.
-divided into some apps.each app have spesific views and urls file. 
-all urls are added into single urls(main) file.  
+📁 Project Structure
+
+Root folder: main
+
+Centralized static/ and templates/ directories.
+
+Project divided into multiple apps.
+
+Each app contains its own views.py and urls.py.
+
+All app URLs are included in a single main/urls.py file for centralized routing.
